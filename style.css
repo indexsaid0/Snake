@@ -1,0 +1,14 @@
+/* Write CSS Here */
+body {
+	text-align: center;
+}
+.geeks {
+	font-size: 40px;
+	font-weight: bold;
+	color: rgba(101, 128, 101, 0.877);
+    border-radius: 21px;
+}
+
+#board {
+    border-radius: 21px;
+}
